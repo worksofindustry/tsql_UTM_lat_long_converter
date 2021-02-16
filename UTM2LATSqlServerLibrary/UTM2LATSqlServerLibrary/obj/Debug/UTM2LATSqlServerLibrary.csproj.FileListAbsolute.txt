@@ -1,7 +1,0 @@
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\bin\Debug\UTM2LATSqlServerLibrary.dll
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\bin\Debug\UTM2LATSqlServerLibrary.pdb
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\bin\Debug\CoordinateSharp.dll
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\bin\Debug\CoordinateSharp.xml
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\obj\Debug\UTM2LATSqlServerLibrary.csprojResolveAssemblyReference.cache
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\obj\Debug\UTM2LATSqlServerLibrary.dll
-C:\Users\mlinker\Desktop\UTM2LATSqlServerLibrary_CLR\UTM2LATSqlServerLibrary\UTM2LATSqlServerLibrary\obj\Debug\UTM2LATSqlServerLibrary.pdb
